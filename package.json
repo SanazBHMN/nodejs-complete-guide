@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SanazBHMN/nodejs-complete-guide/issues"
   },
-  "homepage": "https://github.com/SanazBHMN/nodejs-complete-guide#readme"
+  "homepage": "https://github.com/SanazBHMN/nodejs-complete-guide#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
